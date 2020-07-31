@@ -1,4 +1,4 @@
-baseURL = "http://jv-webdevelopment.netlify.app"
+baseURL = "http://jv-webdevelopment.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
